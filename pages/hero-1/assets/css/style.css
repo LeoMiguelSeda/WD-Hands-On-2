@@ -29,7 +29,7 @@
     z-index: 1;
     margin: 0;
     margin-top: 20px;
-    margin-right: 10px; /* Add margin-right to create spacing between buttons */
+    margin-right: 10px;
 }
 
 .navigation-button:hover {
