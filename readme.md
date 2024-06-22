@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LeoMiguelSeda/WD-Hands-On-2">
-  
-    <img src="./assets/img/Profile.png" alt="Profile" width="130" height="100">
+  <img src="./assets/img/Profile.png" alt="Profile" width="300" height="400">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Hands-On-2</h3>
